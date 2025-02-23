@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\bin\Debug\net8.0\algorithms.exe
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\bin\Debug\net8.0\algorithms.deps.json
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\bin\Debug\net8.0\algorithms.runtimeconfig.json
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\bin\Debug\net8.0\algorithms.dll
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\bin\Debug\net8.0\algorithms.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.dll
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\refint\algorithms.dll
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.pdb
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\algorithms.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Рабочий стол\algorithms\algorithms\obj\Debug\net8.0\ref\algorithms.dll
